@@ -23,7 +23,7 @@
         ["images/cruise/alaska.jpg", "Alaska"],
         ["images/cruise/alaska-cruise.jpg", "Alaska Cruises"],
         ["images/cruise/bahamas.jpg", "Bahamas"],
-        ["images/cruise/Canada.jpg", "Canada"],
+        ["images/cruise/canada.jpg", "Canada"],
         ["images/cruise/caribbean.jpg", "Caribbean"],
         ["images/cruise/caribbean-cruise.jpg", "Caribbean Cruises"]
       ];
@@ -62,7 +62,7 @@
     <div class="row">
       <?php
       $ports = [
-        ["images/cruise/Europe.jpg", "Europe"],
+        ["images/cruise/europe.jpg", "Europe"],
         ["images/cruise/europe-cruises.jpg", "Europe Cruises"],
         ["images/cruise/mexico.jpg", "Mexico"],
         ["images/cruise/weekend-getaway.jpg", "Weekend Getways"]
