@@ -283,7 +283,8 @@ position: fixed; bottom: 0; left: 0; width: 100%;
         <div class="text">
             <h3>Sail with <span>upto 60%</span> Flight Deals !</h3>
           
-            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:18px; "    >(877) 694-3693 </a>
+            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size: 30px;
+    font-weight: bolder; "    >(877) 694-3693 </a>
         </div>
     </button>
 

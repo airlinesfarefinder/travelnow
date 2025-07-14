@@ -290,7 +290,8 @@ position: fixed; bottom: 0; left: 0; width: 100%;
         <div class="icon animated_icon" style="background-image:url('./images/images/call-ezgif.com-resize.gif');background-size:120%"></div>
         <div class="text">
            <h3>Get Onboard with <span>Up to 60%</span> Cruise Savings!</h3>
-            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:20px;  "    >(888) 919-2090 </a>
+            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size: 30px;
+    font-weight: bolder;  "    >(888) 919-2090 </a>
             
         </div>
     </button>

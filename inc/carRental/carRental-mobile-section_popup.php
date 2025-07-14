@@ -286,7 +286,8 @@ position: fixed; bottom: 0; left: 0; width: 100%;
     <div class="text">
       <h3>Get Rolling with <span>Up to 60%</span> Off Rental Rates!</h3>
 
-       <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:20px;  "    >(866) 949-2818 </a>
+       <a href="tel:(866) 949-2818"  style=" text-decoration: none;font-size: 30px;
+    font-weight: bolder;  "    >(866) 949-2818 </a>
     </div>
   </button>
 </div>
