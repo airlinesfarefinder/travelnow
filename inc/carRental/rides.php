@@ -19,7 +19,7 @@
             ></div>
             <div class="button_wrapper">
               <div class="title">Chevrolet Bolt EUV</div>
-              <a href="tel:(844) 915-7447"
+              <a href="tel:(866) 949-2818"
                 ><button class="button">call now</button></a
               >
             </div>
@@ -36,7 +36,7 @@
             ></div>
             <div class="button_wrapper">
               <div class="title">Toyota RAV 4</div>
-              <a href="tel:(844) 915-7447"
+              <a href="tel:(866) 949-2818"
                 ><button class="button">call now</button></a
               >
             </div>
@@ -55,7 +55,7 @@
             ></div>
             <div class="button_wrapper">
               <div class="title">Ford Focus</div>
-              <a href="tel:(844) 915-7447"
+              <a href="tel:(866) 949-2818"
                 ><button class="button">call now</button></a
               >
             </div>
@@ -72,7 +72,7 @@
             ></div>
             <div class="button_wrapper">
               <div class="title">Chevrolet Malibu</div>
-              <a href="tel:(844) 915-7447"
+              <a href="tel:(866) 949-2818"
                 ><button class="button">call now</button></a
               >
             </div>

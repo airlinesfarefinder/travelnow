@@ -255,7 +255,7 @@
         <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
         <div class="text">
           <h3>call now for unbeatable rental car rates</h3>
- <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:20px; color:white "    >(866) 949-2818</a>
+ <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:30px; color:white; font-weight:bolder; "    >(866) 949-2818</a>
          
         </div>
       </button>

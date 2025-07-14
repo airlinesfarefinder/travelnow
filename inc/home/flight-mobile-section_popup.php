@@ -251,7 +251,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
                 <div class="text">
                     <h3>exclusive call-only flight deals</h3>
                  
-                     <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:20px; color:white "    >(877) 694-3693</a>
+                     <a href="tel:(877) 694-3693"  style=" text-decoration: none;font-size:30px;font-weight:bolder; color:white "    >(877) 694-3693</a>
                 </div>
             </button>
         </div>

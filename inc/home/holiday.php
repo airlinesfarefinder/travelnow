@@ -5,9 +5,10 @@
 
 
   .holiday_title h2{
-    font-size: 20px;
+
     font-weight: bold;
     text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
   .holiday_item {
@@ -83,9 +84,9 @@
     <div class="row">
       <div class="col-sm-3">
         <div class="holiday_title">
-          <h2>The world is yours to
+          <h2 style="font-size:25px;" >The world is yours to
           </h2>
-          <h2>DISCOVER</h2>
+          <h2 style="font-size:30px;"  >DISCOVER</h2>
         </div>
       </div>
 

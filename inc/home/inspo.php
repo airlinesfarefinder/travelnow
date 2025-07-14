@@ -25,7 +25,9 @@
         display: inline-block;
         width: 100%;
         padding: 8px;
-        background-color: rgb(255 217 4);
+        background-color: red;
+        color: #ffffff;
+        font-weight: 700;
         border: none;
         border-radius: 4px;
     }
