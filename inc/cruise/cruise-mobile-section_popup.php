@@ -119,6 +119,7 @@
   color: #fff;
   margin: 0;
   text-transform: capitalize;
+    margin-bottom: 10px;
 }
 
 .call_button .text p {
@@ -258,8 +259,8 @@
                 <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
                 <div class="text">
                    <h3>exclusive call-only cruise deals</h3>
-
-                    <p>(888) 919-2090</p>
+   <a href="tel:(888) 919-2090"  style=" text-decoration: none; font-size:20px; color:white "    >(888) 919-2090 </a>
+                    <!-- <p>(888) 919-2090</p> -->
                 </div>
             </button>
         </div>
@@ -277,7 +278,7 @@
 </div>
 
 
-
+<a href="tel:(888) 919-2090">
 <div id="call_now_btn" 
 
 style="
@@ -289,12 +290,12 @@ position: fixed; bottom: 0; left: 0; width: 100%;
         <div class="icon animated_icon" style="background-image:url('./images/images/call-ezgif.com-resize.gif');background-size:120%"></div>
         <div class="text">
            <h3>Get Onboard with <span>Up to 60%</span> Cruise Savings!</h3>
-
-            <p>(888) 919-2090</p>
+            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:20px;  "    >(888) 919-2090 </a>
+            
         </div>
     </button>
 </div>
-
+</a>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {

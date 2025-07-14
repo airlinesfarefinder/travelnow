@@ -112,6 +112,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
   color: #fff;
   margin: 0;
   text-transform: capitalize;
+  margin-bottom: 10px;
 }
 
 .call_button .text p {
@@ -234,7 +235,7 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
 
 <div id="cruise_banner">
  
-    <a href="tel:+1-888-556-2276"></a>
+    <a href="tel:(877) 694-3693"  style="text-decoration: none;" >
     <div class="head">Flight Reservation Helpline</div>
     <div class="banner" style="background-image:url('images/images/smiling-customer-representative-stockcake.jpg'); "></div>
     <div class="featured_lines">
@@ -262,8 +263,13 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
         <li>Round-the-Clock Assistance</li>
         <li>Flexible Payment Methods</li>
     </ul>
+
+    </a>
 </div>
 
+
+
+<a href="tel:(877) 694-3693" style="text-decoration: none;"   >  
 <div id="call_now_btn" 
 
 style="
@@ -271,16 +277,20 @@ z-index: 9999;
 position: fixed; bottom: 0; left: 0; width: 100%; 
  justify-content: center; align-items: center; 
 ">
+
     <button class="call_button"  >
         <div class="icon animated_icon" style="background-image:url('./images/images/call-ezgif.com-resize.gif');background-size:120%"></div>
         <div class="text">
             <h3>Sail with <span>upto 60%</span> Flight Deals !</h3>
-            <p>(877) 694-3693</p>
+          
+            <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:18px; "    >(877) 694-3693 </a>
         </div>
     </button>
+
+   
 </div>
 
-
+</a>
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         const banner = document.getElementById("cruise_banner");

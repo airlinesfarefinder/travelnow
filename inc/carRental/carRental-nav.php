@@ -61,7 +61,8 @@
                             <div class="menu right">
                                 <ul class="clearfix">
                                     <li class="withicon">
-                                        <a href="tel:<?php echo config('phone_number'); ?>">
+
+                                          <a href="tel:(866) 949-2818">
                                             <span class="icon"
                                                 style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
                                             <!-- <?php echo config('phone_number'); ?> -->

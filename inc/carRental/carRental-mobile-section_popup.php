@@ -111,6 +111,7 @@
     color: #fff;
     margin: 0;
     text-transform: capitalize;
+      margin-bottom: 10px;
   }
 
   .call_button .text p {
@@ -254,8 +255,8 @@
         <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
         <div class="text">
           <h3>call now for unbeatable rental car rates</h3>
-
-          <p>(866) 949-2818</p>
+ <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:20px; color:white "    >(866) 949-2818</a>
+         
         </div>
       </button>
     </div>
@@ -272,6 +273,7 @@
 
 </div>
 
+<a href="tel:(866) 949-2818">
 <div id="call_now_btn"
 
   style="
@@ -284,11 +286,11 @@ position: fixed; bottom: 0; left: 0; width: 100%;
     <div class="text">
       <h3>Get Rolling with <span>Up to 60%</span> Off Rental Rates!</h3>
 
-      <p>(866) 949-2818</p>
+       <a href="tel:(866) 949-2818"  style=" text-decoration: none; font-size:20px;  "    >(866) 949-2818 </a>
     </div>
   </button>
 </div>
-
+</a>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {

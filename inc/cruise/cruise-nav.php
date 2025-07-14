@@ -20,7 +20,7 @@
                                         </a>
                                     </li>
 
-                                  
+
 
                                     <li>
                                         <a href="us-flights.php">
@@ -35,7 +35,7 @@
                                         </a>
                                     </li>
 
-                                      <li>
+                                    <li>
                                         <a href="car-rental.php">
                                             Car Rental
                                         </a>
@@ -61,12 +61,13 @@
                             <div class="menu right">
                                 <ul class="clearfix">
                                     <li class="withicon">
-                                        <a href="tel:<?php echo config('phone_number'); ?>">
+
+                                        <a href="tel:(888) 919-2090">
                                             <span class="icon"
                                                 style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
                                             <!-- <?php echo config('phone_number'); ?> -->
-                                              <a href="tel:(866) 949-2818"> (888) 919-2090</a>
-                                           
+                                            <a href="tel:(888) 919-2090"> (888) 919-2090</a>
+
                                         </a>
                                     </li>
                                     <li style="color:black;" id="nav_toggle" class="icononly" onclick="toggle_nav()">
