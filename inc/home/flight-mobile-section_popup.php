@@ -250,7 +250,8 @@ background: linear-gradient(45deg, #6a11cb, #2575fc);
                 <div class="icon animated_icon" style="background-image:url('./images/images/phone.gif')"></div>
                 <div class="text">
                     <h3>exclusive call-only flight deals</h3>
-                    <p>(877) 694-3693</p>
+                 
+                     <a href="tel:(877) 694-3693"  style=" text-decoration: none; font-size:20px; color:white "    >(877) 694-3693</a>
                 </div>
             </button>
         </div>
