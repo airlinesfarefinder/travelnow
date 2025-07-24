@@ -12,7 +12,7 @@
                         <div class="col-sm-6">
                             <div class="wrapper">
                                 <div class="heading">
-                                    <h3>At Demo, </span> </h3>
+                                    <h3>At Travel Now Deals, </span> </h3>
                                     <p>we are dedicated to providing travelers worldwide with a seamless, affordable, and premium flight booking experience. Our mission is simple: to empower your global adventures by offering unbeatable airfare deals,</p>
                                 </div>
                                 <br>

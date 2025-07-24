@@ -93,6 +93,16 @@
         border-radius: 20px;
     }
 
+
+    #banner .search .title{
+
+  display:block;
+   color: #ffffff !important;
+   text-align: center;
+
+}
+
+
     #banner .search .input_wrapper {
         position: relative;
         display: block;
@@ -218,7 +228,16 @@
     @media (max-width: 767px) {
         #banner .search .input_wrapper .input {}
 
+         #banner .search {
+    margin-top: 5rem;
+   
+  }
+
+
     }
+
+  
+
 </style>
 
 

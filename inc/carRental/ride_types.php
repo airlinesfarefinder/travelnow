@@ -3,7 +3,7 @@
     <div class="row">
       <div class="heading">
         <h3>Available Rides To Hire</h3>
-        <p>Lorem ipsum dolor sit amet consectetur</p>
+        <p>Comfortable, reliable rides ready when you are.</p>
       </div>
     </div>
     <div class="row">
