@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scoped Bootstrap Component</title>
     <style>
         /* Method 1: Scoped Bootstrap CSS - Load Bootstrap inside a specific container */
         .bootstrap-scope {
@@ -158,9 +152,7 @@
             margin-bottom: 1rem;
         }
     </style>
-</head>
 
-<body>
 
 
 
@@ -198,10 +190,8 @@
                 </div>
             </div>
         </section>
+        
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     </div>
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html>
